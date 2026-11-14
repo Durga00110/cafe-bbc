@@ -13,38 +13,38 @@ import PaneerShawarmaSandwitch from "../assets/PaneerShawarmaSandwich.avif";
 //golden crunch imports
 import saltedFries from "../assets/saltedFries.avif";
 import periPeriFries from "../assets/peri-peri-fries.avif";
-import cheesyFries from "../assets/cheesyFries.avif";
+import cheesyFries from "../assets/CheesyFries.avif";
 
 // burger studio imports
-import classicVegBurger from "../assets/classicVegBurger.avif";
-import vegCheeseBurger from "../assets/vegCheeseBurger.avif";
-import mexicanBurger from "../assets/mexicanBurger.avif";
-import paneerTikkaBurger from "../assets/paneerTikkaBurger.webp";
-import crispyPaneerTikkiBurger from "../assets/crispyPaneerTikki Burger.avif";
+import classicVegBurger from "../assets/ClassicVegBurger.avif";
+import vegCheeseBurger from "../assets/VegCheeseBurger.avif";
+import mexicanBurger from "../assets/MexicanBurger.avif";
+import paneerTikkaBurger from "../assets/PaneerTikkaBurger.webp";
+import crispyPaneerTikkiBurger from "../assets/CrispyPaneerTikki Burger.avif";
 
 //fried rice imports
-import vegFriedRice from "../assets/vegFriedRice.avif";
-import schezwanFriedRice from "../assets/schezwanFriedRice.avif";
-import paneerFriedRice from "../assets/paneerFriedRice.avif";
-import mangolianRice from "../assets/mangolianRice.avif";
-import paneerShawarmaRice from "../assets/paneerShawarmaRice.avif";
+import vegFriedRice from "../assets/VegFriedRice.avif";
+import schezwanFriedRice from "../assets/SchezwanFriedRice.avif";
+import paneerFriedRice from "../assets/PaneerFriedRice.avif";
+import mangolianRice from "../assets/MangolianRice.avif";
+import paneerShawarmaRice from "../assets/PaneerShawarmaRice.avif";
 
 //maggie imports
-import plainMaggie from "../assets/plainMaggie.avif";
-import vegMaggie from "../assets/vegMaggie.webp";
-import vegCheeseMaggie from "../assets/vegCheeseMaggie.jpeg";
-import periPeriCheeseMaggie from "../assets/periPeriCheeseMaggie.jpeg";
-import cheeseCornMaggie from "../assets/cheeseCornMaggie.jpeg";
+import plainMaggie from "../assets/PlainMaggie.avif";
+import vegMaggie from "../assets/VegMaggie.webp";
+import vegCheeseMaggie from "../assets/VegCheeseMaggie.jpeg";
+import periPeriCheeseMaggie from "../assets/PeriPeriCheeseMaggie.jpeg";
+import cheeseCornMaggie from "../assets/CheeseCornMaggie.jpeg";
 import kFusionMasalaMaggie from "../assets/K-FusionMasalaMaggie.jpeg";
 
 //pasta imports
-import creamyCheesyPasta from "../assets/creamyCheesyPasta.avif";
-import redSaucePasta from "../assets/redSaucePasta.avif";
+import creamyCheesyPasta from "../assets/CreamyCheesyPasta.avif";
+import redSaucePasta from "../assets/RedSaucePasta.avif";
 
 //noodles imports
-import vegNoodles from "../assets/vegNoodles.avif";
-import cornNoodle from "../assets/cornNoodle.avif";
-import chilliGarlicNoodle from "../assets/chilliGarlicNoodle.avif";
+import vegNoodles from "../assets/VegNoodles.avif";
+import cornNoodle from "../assets/CornNoodle.avif";
+import chilliGarlicNoodle from "../assets/ChilliGarlicNoodle.avif";
 
 //shawarma imports
 import paneerShawarma from "../assets/PaneerShawarma.jpg";
@@ -57,42 +57,42 @@ import deathByCheeseShawarma from "../assets/CheeseShawarma.webp";
 import paneerShawarmaIsland from "../assets/paneerShawarmaIsland.jpeg";
 
 //harvest & hunt imports
-import paneerChilly from "../assets/paneerChilly.avif";
+import paneerChilly from "../assets/PaneerChilly.avif";
 
 //sip & shakes imports
-import vanillaShake from "../assets/vanillaShake.avif";
-import kitKatShake from "../assets/kitKatShake.avif";
-import oreoShake from "../assets/oreoShake.avif";
-import chocolateShake from "../assets/chocolateShake.avif";
-import coldCoffee from "../assets/coldCoffee.avif";
-import brownieShake from "../assets/brownieShake.avif";
-import coldCoffeeWithIceCream from "../assets/coldCoffeeWithIceCream.avif";
+import vanillaShake from "../assets/VanillaShake.avif";
+import kitKatShake from "../assets/KitKatShake.avif";
+import oreoShake from "../assets/OreoShake.avif";
+import chocolateShake from "../assets/ChocolateShake.avif";
+import coldCoffee from "../assets/ColdCoffee.avif";
+import brownieShake from "../assets/BrownieShake.avif";
+import coldCoffeeWithIceCream from "../assets/ColdCoffeeWithIceCream.avif";
 
 //bbc mocktail bar imports
-import limeWater from "../assets/limeWater.avif";
-import limeSoda from "../assets/limeSoda.avif";
-import mintMojito from "../assets/mintMojito.avif";
+import limeWater from "../assets/LimeWater.avif";
+import limeSoda from "../assets/LimeSoda.avif";
+import mintMojito from "../assets/MintMojito.avif";
 import blueLagoon from "../assets/BlueLagoon.webp";
 import watermelonWave from "../assets/WatermelonWave.webp";
-import raspberryFizz from "../assets/raspberryFizz.avif";
-import chillyMojito from "../assets/chillyMojito.avif";
+import raspberryFizz from "../assets/RaspberryFizz.avif";
+import chillyMojito from "../assets/ChillyMojito.avif";
 
 //classic brews imports
-import regularCoffee from "../assets/regularCoffee.avif";
-import masalaLemonTea from "../assets/masalaLemonTea.avif";
-import milkTea from "../assets/milkTea.avif";
-import espressoSingleShot from "../assets/espressoSingleShot.avif";
-import icedOrangeEspresso from "../assets/icedOrangeEspresso.avif";
-import icedCranberryEspresso from "../assets/icedCranberryEspresso.avif";
-import peachIceTea from "../assets/peachIceTea.avif";
-import lemonIceTea from "../assets/lemonIceTea.avif";
+import regularCoffee from "../assets/RegularCoffee.avif";
+import masalaLemonTea from "../assets/MasalaLemonTea.avif";
+import milkTea from "../assets/MilkTea.avif";
+import espressoSingleShot from "../assets/EspressoSingleShot.avif";
+import icedOrangeEspresso from "../assets/IcedOrangeEspresso.avif";
+import icedCranberryEspresso from "../assets/IcedCranberryEspresso.avif";
+import peachIceTea from "../assets/PeachIceTea.avif";
+import lemonIceTea from "../assets/LemonIceTea.avif";
 import americanoIceAmericano from "../assets/AmericanoIIceAmericano.avif";
-import caffeLatte from "../assets/caffeLatte.avif";
+import caffeLatte from "../assets/CaffeLatte.avif";
 import cappuccinoIceCappuccino from "../assets/Cappuccino.avif";
 import latteIceLatte from "../assets/LemonIceTea.avif";
-import caramelLatte from "../assets/caramelLatte.avif";
-import mocha from "../assets/mocha.avif";
-import icedSpanishLatte from "../assets/icedSpanishLatte.avif"; 
+import caramelLatte from "../assets/CaramelLatte.avif";
+import mocha from "../assets/Mocha.avif";
+import icedSpanishLatte from "../assets/IcedSpanishLatte.avif"; 
 
 // Homepage hero image
 export const heroImage =
