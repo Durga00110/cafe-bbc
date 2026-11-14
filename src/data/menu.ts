@@ -12,7 +12,7 @@ import PaneerShawarmaSandwitch from "../assets/PaneerShawarmaSandwich.avif";
 
 //golden crunch imports
 import saltedFries from "../assets/saltedFries.avif";
-import periPeriFries from "../assets/periPeriFries.avif";
+import periPeriFries from "../assets/peri-peri-fries.avif";
 import cheesyFries from "../assets/cheesyFries.avif";
 
 // burger studio imports
